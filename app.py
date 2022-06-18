@@ -7,6 +7,7 @@ from flask.json import jsonify
 import utils
 import time
 
+#Cream virtual environment venv (python3 -m venv venv), de activat venv (source venv/bin/activate), de instalat dependențele (pip3 install -r requirements.txt); python3 app.py
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s:%(name)s:%(message)s', datefmt="%m/%d/%Y %I:%M:%S %p")
 logger = logging.getLogger(__name__)
