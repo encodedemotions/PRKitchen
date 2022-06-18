@@ -32,7 +32,7 @@ def receive_order():
 
 if __name__ == "__main__":
     threading.Thread(target=lambda: {
-         app.run(debug=True, use_reloader=False, host="0.0.0.0", port=5000)
+         app.run(debug=True, use_reloader=False, host="0.0.0.0", port=5010)
     }).start()
 
     kitchen = Kitchen()

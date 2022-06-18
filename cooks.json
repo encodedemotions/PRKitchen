@@ -2,25 +2,25 @@
     {
         "rank": 3,
         "proficiency": 4,
-        "name": "Venceslav",
+        "name": "El Gato",
         "catch-phrase": "Just ponder!"
     },
     {
         "rank": 2,
         "proficiency": 3,
-        "name": "Grigorie",
+        "name": "Bingus",
         "catch-phrase": "Move now!"
     },
     {
         "rank": 2,
         "proficiency": 2,
-        "name": "Valentin",
+        "name": "Jeka",
         "catch-phrase": "Take it!"
     },
     {
         "rank": 1,
         "proficiency": 2,
-        "name": "Vlad",
+        "name": "Ion",
         "catch-phrase": "Take it!"
     }
 ]
